@@ -1,7 +1,7 @@
 {% assign items = site.lehrveranstaltungen | sort: 'title' %}
 {% assign count = 1 %}
 
-<div class="section buildingBlock itemsOverview">
+<div class="section buildingBlock itemsOverview"  id="{{page.titel | slugify}}">
   {% if page.options != "no-title" %}
   <div class="container {{page.additionalClasses}} has-transparent-seperator">
     <h2 class="title">{{page.titel}}</h2>
