@@ -13,14 +13,14 @@ Mit Hilfe von einfachen Visualisierungen sind wir in der Lage Ideen, Gedanken, K
 - eine konkrete Diskussionsgrundlage für Gespräche mit den verschiedenen Stakeholdern zu haben
 - Projektbeteiligte und Stakeholder aus einer passiven in eine aktive Haltung zu bringen
 - eine Basis für die spätere Lösung zu erhalten
-- eine Übersicht über die verschiedenen Userflows zu bekommen
+- eine Übersicht über die verschiedenen [Userflows](https://www.interaction-design.org/literature/topics/user-flows) zu bekommen
 - eine erste Prüfung des Datenmodells zu erhalten
 - uvm :)
 
 <!--more-->
 
-Der Workshop läuft wie folgt ab:
-1. Warum, wobei und wie helfen visuelle Skizzen in der Informatik
+Im Workshop befassen wir uns mit folgenden Themen und Fragen:
+1. Warum, wobei und wie helfen Skizzen und visuelles Denken in der Informatik?
 2. Grundlagen Sketching, UI Skibbles & Visual Thinking
 4. Eingesetztes Material
 5. Visuelles Alfabet & Grundformen

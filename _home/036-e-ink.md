@@ -2,6 +2,7 @@
 titel: E-Ink Displays
 layout: block-simpletext-2colsWithHeadlineOnTop
 additionalClasses: has-top-seperator
+published: false
 ---
 
 {% include youtube.html id='sX7_0zs2qXQ' %}
