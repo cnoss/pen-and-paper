@@ -23,6 +23,6 @@ Bitte bringen Sie folgende Materialien mit:
 - Tanja Wehr, Die Sketchnote Starthilfe. Neue Bilderwelten (2018), mitp-Verlag, Frechen [E-Book via vpn](https://content-select.com/de/portal/media/view/5c858640-3164-4fa8-b3c8-6037b0dd2d03?forceauth=1)
 - Eva-Lotta Lamm, Sketchnotes einer Weltreise (2017), mitp-Verlag, Frechen [E-Book via vpn](https://content-select.com/de/portal/media/view/5c858640-d3c4-4f1d-91e1-6037b0dd2d03?forceauth=1)
 - Mike Rohde, Das Sketchnote Handbuch (2014), mitp-Verlag, Frechen [E-Book via vpn](https://content-select.com/de/portal/media/view/5c858641-5294-406d-9fc7-6037b0dd2d03?forceauth=1)
-- Mike Rohde, Das Sketchnote Arbeitsbuch (2014), mitp-Verlag, Frechen [E-Book via vpn](https://content-select.com/de/portal/media/view/5c858641-65a8-4711-be01-6037b0dd2d03?forceauth=1)
+- Temple Grandin P. Visual Thinking, The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions. Riverhead Books; 2022 [E-Book via vpn](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=3141506&site=ehost-live&ebv=EK&ppid=Page-__-1)
 
 Weiteres Material finden Sie im Ilias unter dem Reiter [Pen & Paper](https://ilias.th-koeln.de/goto.php?target=fold_1166132&client_id=ILIAS_FH_Koeln).
